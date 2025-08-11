@@ -5,3 +5,5 @@ A deep learning-based image classification project to detect **Potato plant dise
 - 🟤 Potato Early Blight  
 - ✅ Potato Healthy  
 - ⚫ Potato Late Blight
+
+This projecct aims to detect the potato types from the above mentioned three categories.
